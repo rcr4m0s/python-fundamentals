@@ -1,0 +1,3 @@
+Line 1: Python Core Mastered
+Line 2: Functions and List Comprehensions Done
+Line 3: Ready for OOP and Data Analysis
